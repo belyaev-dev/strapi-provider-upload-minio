@@ -1,0 +1,11 @@
+{
+  "name": "@proscom/strapi-provider-upload-minio",
+  "description": "MinIO provider for Strapi v4",
+  "version": "1.0.0",
+  "author": "Proscom",
+  "license": "MIT",
+  "main": "main.js",
+  "dependencies": {
+    "minio": "^7.0.29"
+  }
+}
